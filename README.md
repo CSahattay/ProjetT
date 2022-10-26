@@ -1,3 +1,3 @@
 # ProjetT
-Test de plusieurs fonctionalitées php
+Test de plusieurs fonctionalités php
 
