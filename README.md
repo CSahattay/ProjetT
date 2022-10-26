@@ -1,2 +1,3 @@
 # ProjetT
-Conception open-source d'un jeu 
+Test de plusieurs fonctionalitées php
+
